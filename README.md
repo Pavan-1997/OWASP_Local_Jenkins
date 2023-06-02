@@ -45,7 +45,7 @@ Select version dependency-check 6.5.1
 
 ![image](https://github.com/Pavan-1997/OWASP_Local_Jenkins/assets/32020205/7196e9a9-9577-4890-9ec9-603856eb5e61)
 
-5. Now run the Job
+5. Now run the Job and look for vulnerabilities in the Dependency-Check Results
 
 ![image](https://github.com/Pavan-1997/OWASP_Local_Jenkins/assets/32020205/33ca9d80-cd0e-4940-88b3-4c0661b26bea)
 
