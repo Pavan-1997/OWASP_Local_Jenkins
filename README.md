@@ -18,7 +18,7 @@ OWASP can be implemented either in a Jenkins File or running in a Server
 
 # OWASP on Ubuntu Server:
 
-All the steps are documented on Local_CMD's file
+All the steps are documented in Local_CMD's text file in the repo
 
 
 
