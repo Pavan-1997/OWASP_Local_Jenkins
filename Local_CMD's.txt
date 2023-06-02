@@ -52,32 +52,3 @@ cd /root/pavan/Petclinic
 You should see dependency-check-report.html
 
 
-
------------------------------------------------------
-
-To use in Jenkins
-
-1. Go to Manage Jenkins
-
-
-2. Install the OWASP Dependency-Check
-
-
-3. Go to Global Tool Configuration
-
-Name - owasp
-
-Check Install automatically
-
-Select dependency-check
-
-Select version dependency-check 6.5.1
-
-
-4. Edit the JenkinsFile Stage 
-
-
-5. Now run the Job
-
-
-
