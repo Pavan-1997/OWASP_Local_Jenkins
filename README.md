@@ -22,11 +22,13 @@
 
 
 2. Create  a directory 
-		a. mkdir pavan
-		b. cd pavan
+
+    a. mkdir pavan
+
+    b. cd pavan
 
 		
-3. Clone the code to that directory
+4. Clone the code to that directory
 	 
 git clone https://github.com/Pavan-1997/Java_Maven_Tomcat.git
 
