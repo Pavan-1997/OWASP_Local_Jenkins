@@ -29,9 +29,9 @@
 
 		
 4. Clone the code to that directory
-	 
+```	 
 git clone https://github.com/Pavan-1997/Java_Maven_Tomcat.git
-
+```
 	
 4. Download the latest OWASP
 	
