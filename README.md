@@ -4,7 +4,7 @@
 
 - Use SonarQube for Source Code before building 
 
-Use OWASP after building 
+- Use OWASP after building 
 
 OWASP generates a report after vulnerability check 
 
