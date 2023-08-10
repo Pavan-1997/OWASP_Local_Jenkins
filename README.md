@@ -34,9 +34,9 @@ git clone https://github.com/Pavan-1997/Java_Maven_Tomcat.git
 ```
 	
 4. Download the latest OWASP
-	
+```	
 wget https://github.com/jeremylong/DependencyCheck/releases/download/v8.2.1/dependency-check-8.2.1-release.zip
-
+```
 	
 5. Unzip the file , first download the unzip 
 
