@@ -49,11 +49,11 @@ unzip dependency-check-8.2.1-release.zip
 ```
 
 7. Install Maven to Build
-
+```
 sudo apt-get update
 
 sudo apt-get install maven
-
+```
 
 8. Now Build the Source Code 
 
