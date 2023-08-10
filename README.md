@@ -6,7 +6,7 @@
 
 - Use OWASP after building 
 
-OWASP generates a report after vulnerability check 
+- OWASP generates a report after vulnerability check 
 
 OWASP sopports for npm, zip , jar, war, py files
 
