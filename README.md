@@ -10,7 +10,7 @@
 
 - OWASP sopports for npm, zip , jar, war, py files
 
-OWASP can be implemented either in a Jenkins File or running in a Server
+- OWASP can be implemented either in a Jenkins File or running in a Server
 
 ![image](https://github.com/Pavan-1997/OWASP_Local_Jenkins/assets/32020205/f9ee3a71-8608-4dbd-b6ac-d7fb5ae23d10)
 
