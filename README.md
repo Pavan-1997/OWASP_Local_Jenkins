@@ -2,7 +2,7 @@
 
 - OWASP Dependency Check is a software composition analysis (SCA) tool that identifies project dependencies with known vulnerabilities. It helps developers and security professionals identify and mitigate potential risks associated with using vulnerable libraries and components.
 
-Use SonarQube for Source Code before building 
+- Use SonarQube for Source Code before building 
 
 Use OWASP after building 
 
