@@ -56,9 +56,9 @@ sudo apt-get install maven
 ```
 
 8. Now Build the Source Code 
-
+```
 mvn clean package
-
+```
 
 9. To run the OWASP which generates report in path suffixed with --out
 
