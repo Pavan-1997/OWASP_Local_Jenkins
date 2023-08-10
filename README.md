@@ -86,13 +86,13 @@ cd /root/pavan/Petclinic
 
 3. Go to Global Tool Configuration
 
-Name - owasp
-
-Check Install automatically
-
-Select dependency-check
-
-Select version dependency-check 6.5.1
+	Name - owasp
+	
+	Check Install automatically
+	
+	Select dependency-check
+	
+	Select version dependency-check 6.5.1
 
 
 4. Edit the JenkinsFile and add the below Stage 
