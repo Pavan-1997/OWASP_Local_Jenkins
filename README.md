@@ -8,7 +8,7 @@
 
 - OWASP generates a report after vulnerability check 
 
-OWASP sopports for npm, zip , jar, war, py files
+- OWASP sopports for npm, zip , jar, war, py files
 
 OWASP can be implemented either in a Jenkins File or running in a Server
 
