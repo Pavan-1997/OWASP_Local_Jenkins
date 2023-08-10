@@ -68,12 +68,12 @@ cd /root/pavan/dependency-check
 ```
 
 10. To verify the report generated
-
+```
 cd /root/pavan/Petclinic
+```
+`You should see dependency-check-report.html`
 
-You should see dependency-check-report.html
-
-
+---
 
 
 # OWASP using Jenkins File:
