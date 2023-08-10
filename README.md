@@ -39,14 +39,14 @@ wget https://github.com/jeremylong/DependencyCheck/releases/download/v8.2.1/depe
 ```
 	
 5. Unzip the file , first download the unzip 
-
+```
 sudo apt-get install unzip
-
+```
 
 6. Now unzip the OWASP
-
+```
 unzip dependency-check-8.2.1-release.zip
-
+```
 
 7. Install Maven to Build
 
