@@ -61,11 +61,11 @@ mvn clean package
 ```
 
 9. To run the OWASP which generates report in path suffixed with --out
-
+```
 cd /root/pavan/dependency-check
 
 ./bin/dependency-check.sh --out /root/pavan/Petclinic . --scan /root/pavan/Petclinic/target
-
+```
 
 10. To verify the report generated
 
