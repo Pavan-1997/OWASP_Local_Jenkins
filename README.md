@@ -25,7 +25,7 @@
 
     a. `mkdir pavan`
 
-    b. cd pavan
+    b. `cd pavan`
 
 		
 4. Clone the code to that directory
