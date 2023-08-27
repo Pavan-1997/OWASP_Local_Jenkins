@@ -23,7 +23,7 @@
 
 2. Create  a directory 
 
-    a. mkdir pavan
+    a. `mkdir pavan`
 
     b. cd pavan
 
