@@ -1,6 +1,6 @@
 # OWASP Dependency Check performing in Local Ubuntu Server and also implementing in Jenkins File
 
-- OWASP Dependency Check is a Software Composition Analysis (SCA) tool that identifies project dependencies with known vulnerabilities. It helps developers and security professionals identify and mitigate potential risks associated with using vulnerable libraries and components. 
+- OWASP Dependency Check is a Software Composition Analysis (SCA) tool that identifies project dependencies with known vulnerabilities. It helps developers and security professionals identify and mitigate potential risks associated with using vulnerable libraries and components.
 
 - Use SonarQube for Source Code before building 
 
